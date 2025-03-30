@@ -8,7 +8,7 @@ categories: [Arduino, DIY Electronics]
 tags: [Arduino, DIY Electronics, Circuits]
 pin: false
 image:
-  path: /assets/lib/SmarthomeCover.png
+  path: /assets/img/SmarthomeCover.png
   alt: Smart Home
 math: true
 ---

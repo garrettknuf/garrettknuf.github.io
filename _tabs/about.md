@@ -18,4 +18,4 @@ As part of Caltech's SURF program, Garrett conducted research at NASA JPL in the
 
 LinkedIn: <https://www.linkedin.com/in/garrettknuf/>
 
-![Desktop View](/assets/lib/logos.png){: width="972" height="589" .normal}
+![Desktop View](/assets/img/logos.png){: width="972" height="589" .normal}

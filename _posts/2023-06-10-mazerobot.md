@@ -8,7 +8,7 @@ categories: [Raspberry Pi, Algorithms]
 tags: [Raspberry Pi, Python, Algorithms]
 pin: false
 image:
-  path: /assets/lib/norman.JPG
+  path: /assets/img/norman.JPG
   alt: Maze Navigating Robot Image
 math: true
 ---
